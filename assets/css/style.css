@@ -15289,6 +15289,15 @@ video.video-area {
   font-weight: 700;
   text-decoration: line-through;
 }
+@media only screen and (max-width: 991px){
+  .client-capsule-wrapper .client-box span{
+  font-size: small;
+    line-height: 1;
+  }
+  .client-capsule-wrapper .client-box span.evensmalleronmob{
+    font-size: x-small;
+  }
+}
 .client-capsule-wrapper .client-box.bg-theme span{
   color: white;
 }
