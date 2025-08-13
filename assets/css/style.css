@@ -3837,7 +3837,6 @@ section {
   font-weight: 700;
   line-height: 0.477;
   letter-spacing: -0.02em;
-  text-transform: uppercase;
   color: var(--theme);
   display: flex;
   align-items: center;
@@ -3883,7 +3882,6 @@ video.video-area {
   font-size: 120px;
   font-weight: 700;
   line-height: 0.83;
-  text-transform: uppercase;
   display: inline;
   position: relative;
 }
@@ -3991,7 +3989,7 @@ video.video-area {
 @media only screen and (max-width: 1199px) {
   .about-area .section-title-wrapper {
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
   }
 }
 
